@@ -2,9 +2,10 @@
 
 ## Course Reference
 -**Course**: Jermy's IT Lab - CCNA
+
 -**Topic**: Network Devices & Topology Design
 
-## OBjective
+## Objective
 Create a network diagram that connects two brache offices (New york and tokyo) througt the internet, using Cisco routers, switches, and firewalls. Also, include an "attacker" laptop to simulate a real-world scenario.
 
 ## Network Topology
