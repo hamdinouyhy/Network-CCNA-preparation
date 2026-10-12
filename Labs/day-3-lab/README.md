@@ -49,7 +49,7 @@ Use Packet Tracer's **Simulation Mode** to analyze network traffic and understan
 | **Layer 2** | Data Link | Ethernet, MAC addresses |
 | **Layer 1** | Physical | Cables, signals |
 
-## 📊 Traffic Analysis
+##  Traffic Analysis
 
 ### Ping from PC1 to SRV1
 
