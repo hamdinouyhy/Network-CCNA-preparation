@@ -8,7 +8,7 @@
 Configure VTP to manage VLANs across multiple switches, understand VTP modes, and disable DTP on trunk ports.
 
 ## Network Topology
-![Lab Topology](lab-day-13-screenshot.png)
+![Lab Topology](lab-day-14-screenshot.png)
 
 ## Devices Used
 | Device | Type | VTP Mode | VLANs Configured |
@@ -109,6 +109,6 @@ vlan 50
 4. VTP Transparent: Does not participate in VTP updates. It can create local VLANs but does not advertise them.
 5. DTP (Dynamic Trunking Protocol): Automatically negotiates trunk links. Disabling it (`switchport nonegotiate`) improves security.
 6. VTP Domain: All switches must be in the same domain to share VLAN information.
-
+ 
 
 ---
