@@ -8,7 +8,7 @@ Configure OSPF directly on router interfaces, adjust the OSPF reference bandwidt
 
 ##  Network Topology
 
-![Lab Topology](lab-screenshot.png)
+![Lab Topology](lab-day-21-screenshot.png)
 
 ##  Devices Used
 
